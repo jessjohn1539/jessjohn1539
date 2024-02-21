@@ -26,7 +26,7 @@
 
 - **Languages:** Javascript, C/C++, Python.
 - **Web Development:** HTML, CSS, Javascript.
-- **Frameworks:** ExpressJS, ReactJS, NodeJS, Bootstrap, TailwindCSS.
+- **Frameworks:** ExpressJS, ReactJS, NodeJS, Bootstrap, TailwindCSS, AstroJS.
 - **App Development:** Flutter, Unity engine.
 - **Databases:** MySQL, Firebase.
 - **Tools:** VS code, Git/Github.
