@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jessjohn1539@gmail.com**
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jess John's Github Stats" align="right" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jessjohn1539&show_icons=true&count_private=true&theme=vue-dark&hide_border=true" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jess John's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jessjohn1539&show_icons=true&count_private=true&theme=vue-dark&hide_border=true" height="192px"/></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=jessjohn1539&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
