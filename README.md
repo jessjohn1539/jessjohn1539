@@ -4,11 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessjohn1539&label=Profile%20views&color=0e75b6&style=flat" alt="jessjohn1539" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
-
-- 🤝 I’m looking for help with **AI/ML projects**
-
-- 💬 Ask me about **MERN stack, UNITY engine**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning, Web scraping using Selenium**
 
 - 📫 How to reach me **jessjohn1539@gmail.com**
 
@@ -28,7 +24,7 @@
 - **Web Development:** HTML, CSS, Javascript.
 - **Frameworks:** ExpressJS, ReactJS, NodeJS, Bootstrap, TailwindCSS, AstroJS.
 - **App Development:** Flutter, Unity engine.
-- **Databases:** MySQL, Firebase.
+- **Databases:** MySQL.
 - **Tools:** VS code, Git/Github.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessjohn1539&show_icons=true&locale=en&layout=compact&theme=dark" alt="jessjohn1539" /></p>
